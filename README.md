@@ -13,15 +13,15 @@ Tensorflow
 
 Put all the images you would like to test in the testModel folder.
 
-Put bvlc_alexnet.npy model from http://www.cs.toronto.edu/~guerzhoy/tf_alexnet/ into the same folder from where you place the test file.
+Put bvlc_alexnet.npy model from here[http://www.cs.toronto.edu/~guerzhoy/tf_alexnet/] into the same folder from where you place the test file.
 
 Run the test file with "python testModel.py".
 
 References:
 
-https://github.com/ykpengba/AlexNet-A-Practical-Implementation
+1. https://github.com/ykpengba/AlexNet-A-Practical-Implementation
 
-https://medium.com/coinmonks/understand-alexnet-in-just-3-minutes-with-hands-on-code-using-tensorflow-925d1e2e2f82
+2. https://medium.com/coinmonks/understand-alexnet-in-just-3-minutes-with-hands-on-code-using-tensorflow-925d1e2e2f82
 
 
 
