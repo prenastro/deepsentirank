@@ -1,4 +1,4 @@
-# AlexNet-with-tensorflow
+# AlexNet CNN with Tensorflow and ILSVRC2012 Data
 
 
 Implementation of AlexNet with tensorflow. 
